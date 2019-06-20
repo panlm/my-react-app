@@ -1,6 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Button } from 'prism-reactjs';
+import { ThemeManager } from 'prism-reactjs';
+import { MainPageLayout } from 'prism-reactjs';
 
 function App() {
   return (
