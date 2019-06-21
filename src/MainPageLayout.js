@@ -4,6 +4,7 @@ import './App.css';
 import { Button } from 'prism-reactjs';
 import { ThemeManager } from 'prism-reactjs';
 import { MainPageLayout, Link, FlexLayout, AlertIcon, Badge, MenuIcon, NavBarLayout, Input, Favorite, MagGlassIcon, Menu, MenuItem, StackingLayout, Table } from 'prism-reactjs';
+import 'prism-reactjs/dist/index.css';
 
 class MainPageLayoutExample extends React.Component {
   constructor(props) {

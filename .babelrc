@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["babel-plugin-prism-import", {
+      "libraryName": "prism-reactjs",
+      "style": "less"
+    }]
+  ]
+}
